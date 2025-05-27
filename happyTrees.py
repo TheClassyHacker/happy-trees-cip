@@ -62,7 +62,7 @@ def draw_cloud(canvas, x, y, color):
     )
 
 
-# TODO: You should define a function like draw_cloud
+# TODO:  define a function like draw_cloud
 # for trees, as well as for any extra elements in the scene.
 def draw_tree(canvas, x, color):
     # draws trees with a trunk and leaves. color is the leaves
